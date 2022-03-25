@@ -1,0 +1,5 @@
+requests
+pandas
+forex-python
+Flask
+Flask-Caching
